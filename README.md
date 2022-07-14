@@ -1,16 +1,12 @@
-# Tiffany's Minimalistic Portfolio (https://tyffic.al)
+# My Portfolio
 
 Important links
 
-- LinkedIn: https://linkedin.com/in/tyffical
+- LinkedIn: https://linkedin.com/in/neeltron
 
-- Github: https://github.com/tyffical
+- Github: https://github.com/neeltron
 
-- Portfolio Website (made using Bootstrap): https://www.mit.edu/~acetiff
-
-- Bio.link (has links to everything, including socials): https://bio.link/tyffical
-
-- Resume: contact me on LinkedIn for my resume
+- Polywork: https://poly.work/neeltron
 
 Tools Used:
 
@@ -58,3 +54,4 @@ The particle feature was obtained with the help of this [particleground](https:/
 # References and Inspiration
 
 This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
+Forked from a fork by Tiffany (https://github.com/tyffical)
